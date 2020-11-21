@@ -19,18 +19,24 @@ mov r7, $1	@ exit syscall
 svc $0		@ wake kernel
 .end
 ~~~
+* * *
 Aqui se muestra la crecacion y los comandos pertinentes para correrlo, el codigo en este archvivo que creamos es el anterior (use_gdb.s)
+* * *
 ![](2.6.png)
 * * *
 Al correrlo nos arroja esto 
+* * *
 ![](2.66.png)
 * * *
 Aqui comparamos 
+* * *
 ![](2.666.png)
 * * *
 Aqui se corre el programa first.s
+* * *
 ![](2.66666.png)
 * * *
 Aqui se muestra el contenido de este archivo
+* * *
 ![](2.6666666.png)
 * * *
