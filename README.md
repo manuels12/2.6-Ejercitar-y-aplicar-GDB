@@ -22,8 +22,10 @@ svc $0		@ wake kernel
 Aqui se muestra la crecacion y los comandos pertinentes para correrlo, el codigo en este archvivo que creamos es el anterior (use_gdb.s)
 ![](2.6.png)
 * * *
+Al correrlo nos arroja esto 
 ![](2.66.png)
 * * *
+Y esto
 ![](2.666.png)
 * * *
 ![](2.66666.png)
