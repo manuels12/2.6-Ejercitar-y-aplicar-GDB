@@ -25,7 +25,7 @@ Aqui se muestra la crecacion y los comandos pertinentes para correrlo, el codigo
 Al correrlo nos arroja esto 
 ![](2.66.png)
 * * *
-Y esto
+Aqui comparamos 
 ![](2.666.png)
 * * *
 ![](2.66666.png)
