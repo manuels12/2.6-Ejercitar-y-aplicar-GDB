@@ -28,7 +28,9 @@ Al correrlo nos arroja esto
 Aqui comparamos 
 ![](2.666.png)
 * * *
+Aqui se corre el programa first.s
 ![](2.66666.png)
 * * *
+Aqui se muestra el contenido de este archivo
 ![](2.6666666.png)
 * * *
